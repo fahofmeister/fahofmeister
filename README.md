@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 👋
 
 - 🔭 I’m currently working at TechnipFMC
 - 📚 I've majored in Mechanical Engineering 🔧⚙
@@ -12,3 +12,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+The repositories below contains my effort on learning the Computer Science fundamentals
