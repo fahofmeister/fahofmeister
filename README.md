@@ -4,7 +4,7 @@
 - 📚 I've majored in Mechanical Engineering 🔧⚙
 - 🌱 I’m currently learning Computer Science fundamentals (to avoid getting stuck in a single language)
 - 👯 I’m looking to collaborate on any Open Source Projects
-- 💻 I've developed some tools in VBA and Python
+- 💻 I've developed some tools in VBA and Python (for my work)
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
