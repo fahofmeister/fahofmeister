@@ -13,4 +13,4 @@
 - ⚡ Fun fact: ...
 -->
 
-The repositories below contains my effort on learning the Computer Science fundamentals
+The repositories I create here contain my effort on learning the Computer Science fundamentals
