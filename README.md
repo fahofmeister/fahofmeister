@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-- 🔭 I’m currently working at TechnipFMC
+- 🔭 I’m currently working at Jastram
 - 📚 I've majored in Mechanical Engineering 🔧⚙
 - 🌱 I’m currently learning Computer Science fundamentals (to avoid getting stuck in a single language)
 - 👯 I’m looking to collaborate on any Open Source Projects
